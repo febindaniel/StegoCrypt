@@ -1,0 +1,21 @@
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Build and Release Artifacts
+dist/
+build/
+Imgenc_Release/
+temp/
+
+# OS Generated
+.DS_Store
+Thumbs.db
